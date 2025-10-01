@@ -6,6 +6,7 @@ public class Main {
         public static String msg "Bye bye!!!!"
         System.out.println("Hellow QA");
         System.out.println(msg);
+        String m = "LALAL"
     }
 
         }

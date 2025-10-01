@@ -6,7 +6,10 @@ public class Main {
         String s = "Bye bye!!!!";
         System.out.println("Hellow QA");
         System.out.println(s);
+        String pay = "Give me a money";
+        System.out.println(pay);
     }
+
 
         }
 
